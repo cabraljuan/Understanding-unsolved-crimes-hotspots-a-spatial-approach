@@ -7,7 +7,7 @@
 ############################################################################
 
 
-# Author: Juan Andrés Cabral
+# Author: Juan AndrÃ©s Cabral
 # Contact: juan.drs.c@gmail.com
 
 
@@ -18,7 +18,7 @@ library(stargazer) # Latex tables
 
 # Path
 rm(list=ls())
-drive <- "G:/Facultad/San andres/Econometría espacial/working paper"
+drive <- "G:/Facultad/San andres/EconometrÃ­a espacial/working paper"
 setwd(drive)
 
 # Load data
@@ -147,7 +147,7 @@ labs(y = "Homicides",
 
 graph
 
-ggsave("G:/Facultad/San andres/Econometría espacial/working paper/washington/graphs/timeline.png",
+ggsave("G:/Facultad/San andres/EconometrÃ­a espacial/working paper/washington/graphs/timeline.png",
        dpi=320,units="in",width=10,height=5)
 
 
