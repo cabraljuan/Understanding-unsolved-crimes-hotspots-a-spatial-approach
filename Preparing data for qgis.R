@@ -7,7 +7,7 @@
 ###                                                                     ###
 ###########################################################################
 ###########################################################################
-# Author: Juan Andrés Cabral
+# Author: Juan AndrÃ©s Cabral
 # Contact: juan.drs.c@gmail.com
 
 # This file is intended to prepare the data to be used in QGIS.
@@ -15,7 +15,7 @@
 
 # Path
 rm(list=ls())
-path <- "G:/Facultad/San andres/Econometría espacial/working paper"
+path <- "G:/Facultad/San andres/EconometrÃ­a espacial/working paper"
 setwd(path)
 
 # Load data
